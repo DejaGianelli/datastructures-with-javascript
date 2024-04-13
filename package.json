@@ -1,0 +1,14 @@
+{
+  "name": "js-data-structures",
+  "version": "1.0.0",
+  "description": "Data Structures with Javascript",
+  "main": "btree.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
